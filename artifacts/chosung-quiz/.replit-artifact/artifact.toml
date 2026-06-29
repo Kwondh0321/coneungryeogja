@@ -1,0 +1,26 @@
+kind = "web"
+previewPath = "/"
+title = "초성 퀴즈 & 훈민정음 소개"
+version = "1.0.0"
+id = "artifacts/chosung-quiz"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 21490
+
+[services.development]
+run = "pnpm --filter @workspace/chosung-quiz run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/chosung-quiz", "run", "build" ]
+run = [ "node", "artifacts/chosung-quiz/og-server.mjs" ]
+
+[services.env]
+PORT = "21490"
+BASE_PATH = "/"

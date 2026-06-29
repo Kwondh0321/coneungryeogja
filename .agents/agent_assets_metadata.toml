@@ -1,0 +1,115 @@
+uploads = []
+
+[[generated]]
+id = "BZeqyrxXQev9DEsX_2inq"
+uri = "file://artifacts/chosung-quiz/public/items/item_78.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "lv1vyeLM5TEdwrSBzZE7E"
+uri = "file://artifacts/chosung-quiz/public/items/item_79.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "gQXq8qm43jxZ9HmnBbokX"
+uri = "file://artifacts/chosung-quiz/public/items/item_80.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "H2Kpv1wksMQ8fqMUs-iiq"
+uri = "file://artifacts/chosung-quiz/public/items/item_81.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "zJQpo0UBOTgtpDm8lYJ3s"
+uri = "file://artifacts/chosung-quiz/public/items/item_82.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "-FdKIwt1zH2yCke5vg8mB"
+uri = "file://artifacts/chosung-quiz/public/items/item_83.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "RCg7sHiWsQGMpLMFDaImS"
+uri = "file://artifacts/chosung-quiz/public/items/item_85.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "AyprS98zQTlxiCF15swWZ"
+uri = "file://artifacts/chosung-quiz/public/items/item_87.png"
+type = "image"
+title = "generated_image"
+
+[[outputs]]
+id = "teEWnT3RZD9fEkXO_VIvZ"
+uri = "file://attached_assets/relic_items/preview_white_bg.png"
+type = "image"
+title = "흰 배경 미리보기"
+
+[[outputs]]
+id = "J6VhD7v914h_VjwLrjs-c"
+uri = "file://attached_assets/relic_items/preview_gray_bg.png"
+type = "image"
+title = "회색 배경 미리보기"
+
+[[outputs]]
+id = "vGwUxX6tRYxFgkw_qh4Sj"
+uri = "file://attached_assets/relic_items/preview_black_bg.png"
+type = "image"
+title = "검정 배경 미리보기"
+
+[[outputs]]
+id = "KLE-OzbLBvtAk3c3HSYOb"
+uri = "file://attached_assets/items_grid_preview.png"
+type = "image"
+title = "전체 아이템 그리드 (#1~#87)"
+
+[[outputs]]
+id = "SxOXu9k1mvn1HU16boaoR"
+uri = "file://유물_시스템_설계_명세서.txt"
+type = "text"
+title = "유물 시스템 설계 명세서 (강화 파라미터 + E[X] 계산)"
+
+[[outputs]]
+id = "7oZwLn_GCL4LEwEIyZXRy"
+uri = "file://랭킹_및_파라미터.txt"
+type = "text"
+title = "랭킹 + 유물 파라미터 전체 (1,668명)"
+
+[[outputs]]
+id = "b8qPqsFeSU7FZH5ksFSPu"
+uri = "file://attached_assets/기댓값_v2_3성달성가능.zip"
+type = "unspecified"
+title = "기댓값_v2_3성달성가능.ipynb (버그 수정본)"
+
+[[outputs]]
+id = "ShZjNPpIY9RD4Oaje_HyH"
+uri = "file://attached_assets/기댓값_v3_CEM_GPU.zip"
+type = "unspecified"
+title = "기댓값_v3_CEM_GPU.ipynb — 변분추론 + GPU 버전"
+
+[[outputs]]
+id = "Qo4hL0XIeWNrdDwq9nfp6"
+uri = "file://data_analysis_report.txt"
+type = "text"
+title = "초능력자 봇 데이터 분석 보고서"
+
+[[outputs]]
+id = "oo75R65rFmcGSDMyEqmj1"
+uri = "file://초능력자봇_전체데이터_ML용.txt"
+type = "text"
+title = "초능력자봇_전체데이터_ML용.txt"
+
+[[outputs]]
+id = "jf4Rhoezaw7o9iqUp2oOP"
+uri = "file://초능력자봇_게임시스템_총정리.txt"
+type = "text"
+title = "초능력자봇 게임 시스템 총정리"

@@ -1,0 +1,24 @@
+{
+  "name": "초능력자 - 초성퀴즈&훈민정음",
+  "short_name": "초능력자",
+  "description": "1인 개발 챗봇 프로젝트입니다! 모든 이용자 분께 감사의 인사를 드립니다",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070710",
+  "theme_color": "#7C3AED",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "/chosung-og.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/chosung-og.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

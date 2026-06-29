@@ -1,0 +1,80 @@
+# =========================================
+# robots.txt — 초능력자 초성퀴즈
+# =========================================
+
+# 모든 크롤러 기본 허용
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# ── 네이버 (Yeti) ──
+User-agent: Yeti
+Allow: /
+
+# ── 다음 / 카카오 ──
+User-agent: Daum
+Allow: /
+
+User-agent: DaumBlog
+Allow: /
+
+# ── 구글 ──
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+# ── 빙 / 마이크로소프트 ──
+User-agent: bingbot
+Allow: /
+
+User-agent: msnbot
+Allow: /
+
+# ── 야후 ──
+User-agent: Slurp
+Allow: /
+
+# ── 바이두 ──
+User-agent: Baiduspider
+Allow: /
+
+# ── 줌 인터넷 ──
+User-agent: ZumBot
+Allow: /
+
+# ── 네이트 ──
+User-agent: NaverBot
+Allow: /
+
+# ── 덕덕고 ──
+User-agent: DuckDuckBot
+Allow: /
+
+# ── 텔레그램 미리보기 ──
+User-agent: TelegramBot
+Allow: /
+
+# ── 카카오 미리보기 ──
+User-agent: Kakaotalk-Scrap
+Allow: /
+
+User-agent: Kakao
+Allow: /
+
+# ── 트위터/X 카드 ──
+User-agent: Twitterbot
+Allow: /
+
+# ── 페이스북 ──
+User-agent: facebookexternalhit
+Allow: /
+
+# ── 링크드인 ──
+User-agent: LinkedInBot
+Allow: /
+
+Sitemap: https://chosung.app/sitemap.xml
+
+#DaumWebMasterTool:011b2d4485f2e0de7683be4a7c8544216d34b67cfda32a66137b868516703fb9:krAfvsEJbH4dof6+UYGOfA==
