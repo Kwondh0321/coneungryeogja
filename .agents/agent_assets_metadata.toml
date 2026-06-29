@@ -113,3 +113,9 @@ id = "jf4Rhoezaw7o9iqUp2oOP"
 uri = "file://초능력자봇_게임시스템_총정리.txt"
 type = "text"
 title = "초능력자봇 게임 시스템 총정리"
+
+[[outputs]]
+id = "L_CqNxfibHEx86paNlMx0"
+uri = "file://README.md"
+type = "text"
+title = "초능력자 README.md"
